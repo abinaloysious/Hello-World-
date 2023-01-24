@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 This repository is created by Abin Aloysious
 Hi to all.
+
+Welcome to Day 2.
